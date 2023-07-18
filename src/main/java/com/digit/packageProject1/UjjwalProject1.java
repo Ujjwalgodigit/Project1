@@ -7,7 +7,7 @@ class Products
     {
         Scanner sc = new Scanner(System.in);
         int choice;
-        System.out.println("<-------------Welcome to Main Menu------------->\n"
+        System.out.println("<-------------Welcome to Main Menuu------------->\n"
                 + "Select one of these products to buy\n"
                 +"\n"
                 + "1.(Electronics)  --->\n"
